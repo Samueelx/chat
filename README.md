@@ -13,3 +13,8 @@ To run this program, you require a working [Go](https://go.dev/doc/install) deve
 To use the chat application, you can either:
 1. Open http://localhost:8080/ in your browser
 2. Use the command-line client called [websocat](https://github.com/vi/websocat), and visit ws://localhost:8080/ws
+
+## Dependencies
+
+- [Chi Router](https://go-chi.io/#/)
+- [Gorilla WebSocket](https://github.com/gorilla/websocket)
